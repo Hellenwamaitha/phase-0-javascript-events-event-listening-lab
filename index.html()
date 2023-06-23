@@ -1,0 +1,11 @@
+index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Event Listener Test</title>
+  </head>
+  <body>
+    <input type="text" id="input" value="Click me" />
+    <script src="index.js"></script>
+  </body>
+</html>
